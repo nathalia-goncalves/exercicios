@@ -12,4 +12,4 @@ def cadastrar_aluno(nome,email,serie,nota01,nota02,nota03):
 
     return alunos
 
-print(cadastrar_aluno("Nathalia", "abc@abc.com", "serie 2B" 8,7,9))
+print(cadastrar_aluno("Nathalia", "abc@abc.com", "serie 2B", 8,7,9))
