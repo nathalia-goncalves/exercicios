@@ -1,0 +1,50 @@
+[
+    {
+        "nome_cliente": "alkjgjkdh",
+        "cpf_cliente": 876876876,
+        "rg_cliente": 87686876,
+        "data_de_nascimento_cliente": "08/06/1999",
+        "endereco_cliente": "rua carijos, 678",
+        "cidade_cliente": "jshgjhgjh",
+        "estado_cliente": "djhgdjhgjh",
+        "telefone_cliente": 9876876876,
+        "celular_cliente": 757645765654,
+        "email_cliente": "abc@abc.com"
+    },
+    {
+        "nome_cliente": " Nathalia Gonçalves ",
+        "cpf_cliente": 2436848586,
+        "rg_cliente": 536478599,
+        "data_de_nascimento_cliente": " 13/04/2009",
+        "endereco_cliente": " Carijos",
+        "cidade_cliente": " Santo André",
+        "estado_cliente": " São Paulo",
+        "telefone_cliente": 25678899,
+        "celular_cliente": 2456788,
+        "email_cliente": " nathalia@gmail.com"
+    },
+    {
+        "nome_cliente": " Bruno Henrique Gonçalves ",
+        "cpf_cliente": 537485696,
+        "rg_cliente": 3564889696,
+        "data_de_nascimento_cliente": " 10/09/2002",
+        "endereco_cliente": " Carijos",
+        "cidade_cliente": " Santo André",
+        "estado_cliente": " São Paulo",
+        "telefone_cliente": 3647585958,
+        "celular_cliente": 374849595,
+        "email_cliente": " bruno@.com"
+    },
+    {
+        "nome_cliente": " Nathalia Gonçalves",
+        "cpf_cliente": 6475859959,
+        "rg_cliente": 748498499,
+        "data_de_nascimento_cliente": " 13/04/2009",
+        "endereco_cliente": " Carijos",
+        "cidade_cliente": " Santo André ",
+        "estado_cliente": " São Paulo ",
+        "telefone_cliente": 637848958,
+        "celular_cliente": 748489985,
+        "email_cliente": " nathalia@.com"
+    }
+]
