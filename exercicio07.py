@@ -42,23 +42,23 @@ def cadastrar_cliente(dados_cliente):
     clientes = carregar_dados()
     clientes.append(dados_cliente)
 
-    with open(db_clientes, "w" , encoding="utf-8") as arq_json:
+    with open(db_clientes, "w", encoding="utf-8") as arq_json:
         json.dump(clientes, arq_json, indent=4, ensure_ascii=False)
 
 
 
-def mostrar_dados_clientes():
-    for cliente in obter_dados_cliente:
+def mostrar_dados_clientes(dados_clientes):
+    for cliente in dados_clientes:
         print(f"""
-              Nome do Cliente: {cliente["nome do cliente"]}
-              CPF do Cliente: {cliente["cpf do cliente"]}
-              RG do Cliente: {cliente["RG do cliente"]}
-              Data de Nascimento do Cliente{cliente["data de nascimento do cliente"]}
-              Endereco do Cliente{cliente["endereço do cliente"]}
-              Cidade do Cliente{cliente["cidade do cliente"]}
-              Estado do Cliente{cliente["estado do cliente"]}
-              Telefone do Cliente{cliente["telefone do cliente"]}
-              Celular do Cliente{cliente["celular do cliente"]}
+              Nome do Cliente: {cliente["nome_cliente"]}
+              CPF do Cliente: {cliente["cpf_cliente"]}
+              RG do Cliente: {cliente["rg_cliente"]}
+              Data de Nascimento do Cliente{cliente["data_de_nascimento_cliente"]}
+              Endereco do Cliente{cliente["endereco_cliente"]}
+              Cidade do Cliente{cliente["cidade_cliente"]}
+              Estado do Cliente{cliente["estado_cliente"]}
+              Telefone do Cliente{cliente["telefone_cliente"]}
+              Celular do Cliente{cliente["celular_cliente"]}
               """)
         
 def iniciar_sistema():

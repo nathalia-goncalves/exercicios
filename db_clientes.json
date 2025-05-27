@@ -46,5 +46,17 @@
         "telefone_cliente": 637848958,
         "celular_cliente": 748489985,
         "email_cliente": " nathalia@.com"
+    },
+    {
+        "nome_cliente": " nathalia goncalves",
+        "cpf_cliente": 457897808,
+        "rg_cliente": 465768899,
+        "data_de_nascimento_cliente": " 13/04/2009",
+        "endereco_cliente": " carijos",
+        "cidade_cliente": " santo andré",
+        "estado_cliente": " são paulo",
+        "telefone_cliente": 56799890,
+        "celular_cliente": 4656778989,
+        "email_cliente": " nathalia@.com"
     }
 ]
