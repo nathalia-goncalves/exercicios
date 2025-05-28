@@ -1,0 +1,20 @@
+[
+    {
+        "marca_veiculo": " Nissan ",
+        "modelo_veiculo": " SUV",
+        "ano_fabricacao_veiculo": 2023,
+        "cor_veiculo": " Cinza"
+    },
+    {
+        "marca_veiculo": " Honda",
+        "modelo_veiculo": " EXS",
+        "ano_fabricacao_veiculo": 2009,
+        "cor_veiculo": " Cinza"
+    },
+    {
+        "marca_veiculo": " FIAT",
+        "modelo_veiculo": " ELX ",
+        "ano_fabricacao_veiculo": 2010,
+        "cor_veiculo": " Preto"
+    }
+]
